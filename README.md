@@ -4,6 +4,17 @@ Welcome to **Impact Gym Fitness** — your ultimate online fitness hub designed 
 
 ---
 
+---
+
+ 🖼️ Screenshot Preview
+
+Take a look at the Impact Gym Fitness website in action:
+
+![Alt text](Assets/image.png)
+
+
+
+
 ## ✨ Key Features & Highlights 🔑
 
 - 🖥️ **Responsive Design:** Seamlessly adapts across all devices — mobiles, tablets, and desktops.  
