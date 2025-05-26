@@ -1,6 +1,6 @@
 # 💪 Impact Gym Fitness Website 🏋️‍♂️
 
-Welcome to **Impact Gym Fitness** — your ultimate online fitness hub designed to **motivate**, **inspire**, and **empower** every visitor on their journey to greatness! 🚀
+Welcome to **Impact Gym Fitness** — your ultimate online fitness hub designed to **motivate**,**inspire**, and **empower** every visitor on their journey to greatness! 🚀
 
 ---
 
