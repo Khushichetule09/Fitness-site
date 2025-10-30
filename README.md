@@ -4,8 +4,6 @@ Welcome to **Impact Gym Fitness** — your ultimate online fitness hub designed 
 
 ---
 
----
-
  🖼️ Screenshot Preview
 
 Take a look at the Impact Gym Fitness website in action:
@@ -52,11 +50,3 @@ Take a look at the Impact Gym Fitness website in action:
 ### HTML Structure  
 - Semantic tags like `<header>`, `<nav>`, `<section>`, and `<footer>` for clarity & SEO  
 - Anchor links for quick navigation to page sections  
-
-### CSS Styling  
-- Universal reset with `*` selector for consistent box sizing and spacing  
-- Dark theme base with accent color #c8778f for highlights  
-- Flexbox for nav layout and trainer grid for a responsive, neat appearance  
-- Sticky navigation bar to keep menu accessible at all times  
-- Scroll progress bar fixed at top, growing dynamically as you scroll
-
